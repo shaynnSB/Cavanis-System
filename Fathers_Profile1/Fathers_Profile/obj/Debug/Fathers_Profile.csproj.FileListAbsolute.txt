@@ -1,0 +1,17 @@
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\bin\Debug\Fathers_Profile.exe.config
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\bin\Debug\Fathers_Profile.exe
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\bin\Debug\Fathers_Profile.pdb
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.csprojAssemblyReference.cache
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.Properties.Resources.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.csproj.GenerateResource.cache
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.csproj.CoreCompileInputs.cache
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.exe
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.pdb
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.FatherForm.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.AddFatherUC.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.FatherInfoUC.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.AddProfile.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.EditFatherUC.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\obj\Debug\Fathers_Profile.EditFather.resources
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\bin\Debug\Fathers.mdf
+E:\Cavanis Systems\Fathers_Profile1\Fathers_Profile\bin\Debug\Fathers_log.ldf
